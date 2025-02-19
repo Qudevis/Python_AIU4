@@ -192,3 +192,5 @@ for animal in animals:
     if isinstance(animal,Animal):
         animal.speak()
 
+print("Knygu paieska")
+print("finalinis paieskos pakeitimas")
